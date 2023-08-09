@@ -10,5 +10,7 @@ Ao adicionar cada tarefa, automaticamente ficará na parte correspondente de cad
 <br>
 <br>
 🔗 Link do Curso: <a href="https://www.udemy.com/course/react-para-iniciantes-free/">React para Iniciantes - Udemy</a>
-
+<br>
+<br>
+🔗 Link Deploy: <a href="https://react-kanban-project.vercel.app/">React Kanban Project</a>
 
